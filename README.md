@@ -32,6 +32,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/lakshitha77/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@LakshithaMadushan-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Lakshitha%20Madushan-green?style=flat&logo=stackoverflow"></a>
+<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://stackoverflow.com/users/10175547/lakshitha%20madushan"></a>
 <a href="mailto:lakshitha199412@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lakshitha199412@gmail.com-red?style=flat&logo=gmail"></a>
 </p>
