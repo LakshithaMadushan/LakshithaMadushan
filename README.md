@@ -1,6 +1,6 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+ <img width="100px" src="https://avatars.githubusercontent.com/u/25295833?s=400&u=207853b2c6231d44ca8aa91c2dbed3d4243fec22&v=4" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Lakshitha Madushan</h2>
 </p>
 
 ### Hi there 👋 I'm [Lakshitha Madushan](https://www.linkedin.com/in/lakshitha77/)
